@@ -111,6 +111,18 @@ https://github.com/bezymel/NeuroStartUp/blob/new-text/README.md
 
 **В качестве результата пришлите ссылку на ваш репозиторий на GitHub.**
 
+### Ответ 3
+
+![image](https://github.com/bezymel/git-2-homeworks/assets/129361495/494c707b-2faa-4b47-b0f4-8e6938f9b507)
+![image](https://github.com/bezymel/git-2-homeworks/assets/129361495/19c56893-150a-49b7-9439-1e71b22c8932)
+![image](https://github.com/bezymel/git-2-homeworks/assets/129361495/e50118f0-6f1a-4c8a-b9f4-afe9f0383569)
+![image](https://github.com/bezymel/git-2-homeworks/assets/129361495/703d78ac-4d36-447f-ad28-9f2dfd34332f)
+![image](https://github.com/bezymel/git-2-homeworks/assets/129361495/1dd5d956-b4af-4651-8a9b-feff6d0ec2a3)
+![image](https://github.com/bezymel/git-2-homeworks/assets/129361495/b6544e42-55c5-4bee-a85a-2c31abb6328b)
+![image](https://github.com/bezymel/git-2-homeworks/assets/129361495/4aca2c49-d57d-4cbc-92ee-9379c5759221)
+
+https://github.com/bezymel/target
+
 #### Справка
 
 При клонировании в локальный репозиторий клонируется только ветка `main`. Остальные ветки существуют только в удалённом репозитории. Просмотреть все ветки можно командой `git branch -a`. Красным подсвечены удалённые ветки, в начале их имени стоит `remotes/` (в командах оно не нужно), означающий, что ветка находится в удалённом репо, а далее - `origin/`, указывая на то, в каком репозитории они находятся.
