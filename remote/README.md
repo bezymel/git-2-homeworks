@@ -56,6 +56,8 @@ _______
 ![image](https://github.com/bezymel/git-2-homeworks/assets/129361495/365cf4b2-8e71-407f-baa4-15e74917d31c)
 ![image](https://github.com/bezymel/git-2-homeworks/assets/129361495/924eb92e-8766-4691-9081-5f158400877c)
 
+https://github.com/bezymel/NeuroStartUp/tree/main
+
 ### Задача №2: Создание веток
 
 Вы решили немного доработать главную страницу вашего проекта. Но новый текст требует согласования, команда не готова сразу его менять. Они попросили показать как это будет выглядеть. Для этого вам нужно создать новую ветку и добавить туда новый текст.
@@ -86,6 +88,13 @@ _______
 
 **В качестве результата пришлите ссылку на ваш репозиторий на GitHub.**
 
+### Ответ 2
+
+![image](https://github.com/bezymel/git-2-homeworks/assets/129361495/61add41f-55b8-4992-8556-76d97a734c97)
+![image](https://github.com/bezymel/git-2-homeworks/assets/129361495/0a45d181-9440-46d3-a27b-00c406c7b3d3)
+![image](https://github.com/bezymel/git-2-homeworks/assets/129361495/85c6173c-c2af-4a15-b101-b450faae786e)
+
+https://github.com/bezymel/NeuroStartUp/blob/new-text/README.md
 
 ### Задача №3: Слияние веток
 
