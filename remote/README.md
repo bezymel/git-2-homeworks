@@ -47,6 +47,15 @@ _______
 
 **В качестве результата пришлите ссылку на ваш репозиторий на GitHub. Скопируйте ссылку из адресной строки браузера.**
 
+### Ответ 1
+
+![image](https://github.com/bezymel/git-2-homeworks/assets/129361495/be7ff0a8-c870-4163-beed-1f7c7e579dda)
+![image](https://github.com/bezymel/git-2-homeworks/assets/129361495/b9b0df0d-62aa-4bc6-8c84-8854c9bf89c5)
+![image](https://github.com/bezymel/git-2-homeworks/assets/129361495/d8e47466-1ebc-48aa-918a-f9ac64b8e1a9)
+![image](https://github.com/bezymel/git-2-homeworks/assets/129361495/d29750d7-9158-437a-ac16-1ea9ae7e95e2)
+![image](https://github.com/bezymel/git-2-homeworks/assets/129361495/365cf4b2-8e71-407f-baa4-15e74917d31c)
+![image](https://github.com/bezymel/git-2-homeworks/assets/129361495/924eb92e-8766-4691-9081-5f158400877c)
+
 ### Задача №2: Создание веток
 
 Вы решили немного доработать главную страницу вашего проекта. Но новый текст требует согласования, команда не готова сразу его менять. Они попросили показать как это будет выглядеть. Для этого вам нужно создать новую ветку и добавить туда новый текст.
