@@ -113,15 +113,9 @@ https://github.com/bezymel/NeuroStartUp/blob/new-text/README.md
 
 ### Ответ 3
 
-![image](https://github.com/bezymel/git-2-homeworks/assets/129361495/494c707b-2faa-4b47-b0f4-8e6938f9b507)
-![image](https://github.com/bezymel/git-2-homeworks/assets/129361495/19c56893-150a-49b7-9439-1e71b22c8932)
-![image](https://github.com/bezymel/git-2-homeworks/assets/129361495/e50118f0-6f1a-4c8a-b9f4-afe9f0383569)
-![image](https://github.com/bezymel/git-2-homeworks/assets/129361495/703d78ac-4d36-447f-ad28-9f2dfd34332f)
-![image](https://github.com/bezymel/git-2-homeworks/assets/129361495/1dd5d956-b4af-4651-8a9b-feff6d0ec2a3)
-![image](https://github.com/bezymel/git-2-homeworks/assets/129361495/b6544e42-55c5-4bee-a85a-2c31abb6328b)
-![image](https://github.com/bezymel/git-2-homeworks/assets/129361495/4aca2c49-d57d-4cbc-92ee-9379c5759221)
+![image](https://github.com/bezymel/git-2-homeworks/assets/129361495/ba9de182-8c48-4c76-98a7-859efb1cc6e8)
 
-https://github.com/bezymel/target
+https://github.com/bezymel/git-2-homeworks-mergeFIX
 
 #### Справка
 
