@@ -87,3 +87,10 @@ https://github.com/bezymel/homework2
 6. Разрешите появившийся конфликт и отправьте сделанные вами изменения на GitHub.
 
 **В качестве результата пришлите проверяющему ссылку на ваш репозиторий на GitHub.**
+
+### Ответ 3
+
+https://github.com/bezymel/git-2-homeworks-fork/tree/main
+
+![image](https://github.com/bezymel/git-2-homeworks/assets/129361495/a3225794-0b37-44d2-a0ad-0eac9a48deab)
+
